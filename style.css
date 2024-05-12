@@ -1,0 +1,51 @@
+body {
+    
+    background-color: #0a0a23;
+    background-image: url(https://vignette.wikia.nocookie.net/sm64community/images/6/67/Mushroom_Kingdom.jpg/revision/latest?cb=20200904194526://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d7d3c4f-78b0-41e5-849b-893c46935727/d94hcqu-d324458b-94ab-4dfb-a32a-3a4286761bac.png/v1/fill/w_1024,h_583,q_80,strp/beautiful_mushroom_kingdom_field_by_mitchell00_d94hcqu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTgzIiwicGF0aCI6IlwvZlwvNGQ3ZDNjNGYtNzhiMC00MWU1LTg0OWItODkzYzQ2OTM1NzI3XC9kOTRoY3F1LWQzMjQ0NThiLTk0YWItNGRmYi1hMzJhLTNhNDI4Njc2MWJhYy5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CqMuyvFyxH1O-kGjO6H1e1XQsqM26foM5VC-KDpuID4); 
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  #text {
+    background-color: #0a0a23;
+    color: #ffffff;
+    padding: 10px;
+  }
+  
+  #game {
+    max-width: 700px;
+    max-height: 400px;
+    background-color: #ffffff;
+    color: #ffffff;
+    margin: 30px auto 0px;
+    padding: 10px;
+    border: 1px solid #0a0a23;
+
+  }
+  
+  #controls,
+  #stats {
+    border: 1px solid #0a0a23;
+    padding: 5px;
+    color: #0a0a23;
+  }
+  
+  #enemyStats {
+    display: none;
+    border: 1px solid #0a0a23;
+    padding: 5px;
+    color: #ffffff;
+    background-color: #c70d0d;
+  }
+  
+  .stat {
+    padding-right: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+    color: #0a0a23;
+    background-color: #feac32;
+    background-image: linear-gradient(#fecc4c, #ffac33);
+    border: 3px solid #feac32;
+  }
